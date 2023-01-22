@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="initial-scale = 1.0, maximum-scale = 1.0, user-scalable = no" />
+    <title>Earthquake Detection</title>
+
+    <link rel="icon" type="image/x-ihttp://jsfiddle.net/d7snr0zw/#runcon" href="/img/RP-title.png">
+
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css">
+        <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+</head>
+<body class ="text-light">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+        <div class="p-5"></div>
+    <section>
+        <div class="section text-light p-2 p-lg-3 text-center p-3">
+            <div class="container rp-default large-text">
+                <p class="text-center">Earthquake Alarm</p>
+            </div>
+        </div>
+    </section>
+    <section>
+      <div class="section text-light text-center">
+        <div class="container rp-default large-rp">
+          <button class="btn btn-dark" onclick="client.connect(options);">Connect</button>
+<button class="btn btn-dark" onclick="client.subscribe('esp32/quakedet/#', {qos: 2}); alert('Subscribed');">Subscribe</button>
+        </div>
+      </div>
+    </section>
+<section>
+  <div class="section text-light text-center">
+   <div id="messages"></div>
+  </div>
+</section>
+
+    <section>
+        <div class="section text-light p-2 p-lg-3 text-center p-3">
+            <div class="container rp-default fs-3">
+                <p class="text-center text-light credit-text"><br>Made for Embedded Systems 2022 | <b>Wiryanata Sunardi</b></p>
+        
+            </div>
+
+        </div>
+    </section>
+
+</body>
+</html>
+
+ <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>

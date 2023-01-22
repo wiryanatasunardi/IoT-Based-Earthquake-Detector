@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+
+html{
+    font-size: 16.5px;
+    scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.navbar-dark{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    background: #141414;
+}
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+  }
+.text-light{
+    background:#141414;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color:white;
+}
+.bg-ime-yellow{
+    background:#FCD843;
+    color:#141414
+}
+.bg-ime-blue{
+    background:#A5E2F8;
+    color:#141414
+}
+.background-color{
+    background:#141414;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.parallax {
+    background-attachment: scroll;}
+.carousel {
+    font-family: 'Poppins', sans-serif;
+}
+.bold {
+    font-weight: 600;
+}
+.card {
+    border: none;
+}
+.regular {
+    font-weight: 400;
+}
+.ime-default{
+    background:#141414;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.no-padding{
+    padding: 0px !important;
+   }
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px !important;;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #141414;
+    width: 10px !important;;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #FCD843;
+    width: 10px !important;;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #FCD843;
+    width: 10px !important;;
+  }
+
+div.navbar *::-moz-selection {
+    background: none !important;
+}
+div.navbar *::selection {
+    background: none !important;
+}
+html {
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;    
+}
+.card-ime{
+    background: #FCD843; 
+    font-family: 'Poppins', sans-serif;
+}
+.large-text{
+    font-size: 40px;
+}
+.small-text{
+    font-size: 20px;
+}
+.credit-text{
+    font-size: 20px;
+}
