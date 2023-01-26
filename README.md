@@ -21,3 +21,8 @@ Case             |  Close
   <img src="https://github.com/wiryanatasunardi/IoT-Based-Earthquake-Detector/blob/main/Documentation/System.jpg" />
 </p>
 
+## Webserver Preview
+
+<p align="center">
+  <img src="https://github.com/wiryanatasunardi/IoT-Based-Earthquake-Detector/blob/main/Documentation/Webserver.jpg" />
+</p>
