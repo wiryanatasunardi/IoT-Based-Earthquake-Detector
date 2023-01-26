@@ -26,3 +26,9 @@ Case             |  Close
 <p align="center">
   <img src="https://github.com/wiryanatasunardi/IoT-Based-Earthquake-Detector/blob/main/Documentation/Webserver.jpg" />
 </p>
+
+## Mobile Application Preview
+
+Sign Up   |   Login    |    Main Page   |   Main Page   |   Sensor Visualize    |   Profile
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://github.com/wiryanatasunardi/IoT-Based-Earthquake-Detector/blob/main/Documentation/signup.jpg" height="280" /> | <img src="https://github.com/wiryanatasunardi/IoT-Based-Earthquake-Detector/blob/main/Documentation/login.jpg" height = "280" /> | <img src="https://github.com/wiryanatasunardi/IoT-Based-Earthquake-Detector/blob/main/Documentation/main.jpg" height = "280" /> | <img src="https://github.com/wiryanatasunardi/IoT-Based-Earthquake-Detector/blob/main/Documentation/main2.jpg" height = "280" /> | <img src="https://github.com/wiryanatasunardi/IoT-Based-Earthquake-Detector/blob/main/Documentation/sensor.jpg" height = "280" /> | <img src="https://github.com/wiryanatasunardi/IoT-Based-Earthquake-Detector/blob/main/Documentation/profile.jpg" height = "280" /> 
