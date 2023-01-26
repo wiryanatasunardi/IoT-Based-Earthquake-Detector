@@ -11,5 +11,6 @@ This device is used to detect earthquakes with an accelerometer and gyro sensor 
 
 ## 3D Design Preview
 
-![3D Design](https://github.com/wiryanatasunardi/IoT-Based-Earthquake-Detector/blob/main/Documentation/Casing.jpg | width = 150)
-![3D Design](https://github.com/wiryanatasunardi/IoT-Based-Earthquake-Detector/blob/main/Documentation/Close.jpg | width = 150)
+Case             |  Close
+:-------------------------:|:-------------------------:
+![3D Design](https://github.com/wiryanatasunardi/IoT-Based-Earthquake-Detector/blob/main/Documentation/Casing.jpg)  |  ![3D Design](https://github.com/wiryanatasunardi/IoT-Based-Earthquake-Detector/blob/main/Documentation/Close.jpg)
