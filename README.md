@@ -17,5 +17,7 @@ Case             |  Close
 
 ## System Interconnection Preview
 
-
+<p align="center">
+  <img src="https://github.com/wiryanatasunardi/IoT-Based-Earthquake-Detector/blob/main/Documentation/System.jpg" />
+</p>
 
