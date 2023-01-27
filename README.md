@@ -32,3 +32,11 @@ Case             |  Close
 Sign Up   |   Login    |    Main Page   |   Main Page   |   Sensor Visualize    |   Profile
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/wiryanatasunardi/IoT-Based-Earthquake-Detector/blob/main/Documentation/signup.jpg" height="240" /> | <img src="https://github.com/wiryanatasunardi/IoT-Based-Earthquake-Detector/blob/main/Documentation/login.jpg" height = "240" /> | <img src="https://github.com/wiryanatasunardi/IoT-Based-Earthquake-Detector/blob/main/Documentation/main.jpg" height = "240" /> | <img src="https://github.com/wiryanatasunardi/IoT-Based-Earthquake-Detector/blob/main/Documentation/main2.jpg" height = "240" /> | <img src="https://github.com/wiryanatasunardi/IoT-Based-Earthquake-Detector/blob/main/Documentation/sensor.jpg" height = "240" /> | <img src="https://github.com/wiryanatasunardi/IoT-Based-Earthquake-Detector/blob/main/Documentation/profile.jpg" height = "240" /> 
+
+## Project Overview
+
+IoT Based Earthquake Detector is a device that has been integrated with a web server and mobile application as an early earthquake notification warning for the user. Moreover, the mobile application also had an additional feature, such as a daily activity planner for the user. Overall, this device involved an Accelerometer and Gyroscope Module MPU6050 to determine the center point of the device; therefore, it can quickly determine whether there is any movement from the 3-axis. In addition, the device is also equipped with a SW-420 vibration sensor to determine whether there is any vibration around the device that came from an earthquake. A buzzer is also equipped in the device, which functions as the alarm when there is vibration detected.
+
+## Author
+-  LinkedIn  - [Wiryanata Sunardi](https://www.linkedin.com/in/wiryanata/)
+-  Instagram - [wiryanatasunardi](https://www.instagram.com/wiryanatasunardi/)
